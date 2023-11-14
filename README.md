@@ -16,3 +16,7 @@ App Provides Search Github Users Feature, built according to Clean Architecture.
 
 # Libraries
 * [**Kingfisher**](https://github.com/onevcat/Kingfisher): Image loading library
+
+# Demo
+https://github.com/azzam1996/GithubUsers_iOS/assets/59395628/df54a56a-b351-4401-b1b6-5d8678603450
+
